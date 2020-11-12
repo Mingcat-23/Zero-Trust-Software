@@ -16,6 +16,8 @@ Github上一些关于零信任的开源软件集合
 ## 零信任验证
 1、https://github.com/ojkelly/warden
 用于解决零信任框架下的身份验证问题，基本不需要进行配置。
+
+
 2、https://github.com/kryptco/sigchain
 基于哈希函数进行验证的零信任数据管理软件
 
