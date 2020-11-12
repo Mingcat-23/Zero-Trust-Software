@@ -22,6 +22,7 @@ Github上一些关于零信任的开源软件集合
 
 ## 零信任访问代理
 1、https://github.com/f110/heimdallr
+具有身份识别的代理软件，可以通过浏览器管理用户。
 
 2、https://github.com/cogolabs/beyond
 基于谷歌BeyondCord启发的零信任访问代理软件
