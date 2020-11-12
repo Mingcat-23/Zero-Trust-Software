@@ -1,5 +1,5 @@
 # Zero-Trust-Software
-Github上一些关于零信任的开源软件集合
+Github上一些零信任相关开源软件或文档集合
 
 ## 零信任相关文档
 1、https://github.com/iamhrishikeshpadhye/Software-Defined-Perimeter
