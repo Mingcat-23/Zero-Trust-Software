@@ -17,12 +17,12 @@ Github上一些关于零信任的开源软件集合
 1、https://github.com/ojkelly/warden
 用于解决零信任框架下的身份验证问题，基本不需要进行配置。
 
-
 2、https://github.com/kryptco/sigchain
 基于哈希函数进行验证的零信任数据管理软件
 
 ## 零信任访问代理
 1、https://github.com/f110/heimdallr
+
 2、https://github.com/cogolabs/beyond
 基于谷歌BeyondCord启发的零信任访问代理软件
 
@@ -33,5 +33,3 @@ Github上一些关于零信任的开源软件集合
 ## 单包授权认证（SPA）
 1、https://github.com/greenstatic/openspa or https://github.com/greenstatic/opensdp
 基于go语言的SPA认证程序，但编译成可执行文件后在liunx上无法运行。
-
-## 
