@@ -17,7 +17,7 @@ Github上一些零信任相关开源软件或文档集合
 
 ## 零信任框架
 1、https://github.com/sbaumgartner75/ZeroTrust
-作者硕士论文《Wenn ich dem Netzwerk nicht mehr traue - Frameworks und Lösungen für Zero Trust》中的程序，基于python和PHP语言。
+作者硕士论文《Wenn ich dem Netzwerk nicht mehr traue - Frameworks und Lösungen für Zero Trust（当我不再信任网络时-零信任的框架和解决方案）》中的程序，基于python和PHP语言。
 
 ## 加密解密
 1、https://github.com/Soluto/kamus
