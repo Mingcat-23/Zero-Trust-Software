@@ -3,7 +3,7 @@ CSDN地址：https://blog.csdn.net/sinat_27690807/article/details/110517732
 
 最近在做零信任相关软件的安装和调试，主要使用系统为linux的CentOS 7、Windows7和Win Server 2008 R2 64。
 
-涉及到的软件为，Squid、Open***（VmPmN）、fwknop。
+涉及到的软件为，Squid、OpenVPN、fwknop。
         
     所有使用软件已经上传至百度云。
     链接：https://pan.baidu.com/s/15pDpWjnWtTe5CIoic02Erg 提取码：q72t 
